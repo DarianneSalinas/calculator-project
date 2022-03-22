@@ -32,7 +32,7 @@ reader.question("What would you like to calculate?", function(input){
 
 				} else if (mathSymbol === "sqrt"){
 					console.log(Math.sqrt(num1));
-					console.log(Math.sqrt(num2));
+		
 				}
 	
 
